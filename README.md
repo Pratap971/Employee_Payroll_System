@@ -4,20 +4,20 @@ A simple Core Java project that manages employee payroll, supporting full-time a
 It allows adding, removing, and displaying employees with their calculated salaries.  
 
 
-Features  
+# Features  
 
-Abstract class implementation for Employee  
+- Abstract class implementation for Employee  
 
-Polymorphism for salary calculation  
+- Polymorphism for salary calculation  
 
-Encapsulation using private fields and getter methods  
+- Encapsulation using private fields and getter methods  
 
-ArrayList for storing employees  
+- ArrayList for storing employees  
 
-Usage  
+# Usage  
 
-Add full-time and part-time employees.  
+- Add full-time and part-time employees.  
 
-Display employee details with calculated salaries.  
+- Display employee details with calculated salaries.  
 
-Remove an employee and update the list.  
+- Remove an employee and update the list.  
