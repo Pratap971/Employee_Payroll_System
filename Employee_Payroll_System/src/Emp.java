@@ -1,4 +1,4 @@
-package project;
+package Emp;
 
 import java.util.ArrayList;
 
@@ -117,7 +117,7 @@ class PayrollSystem{
 	}
 }
 
-public class Main {
+public class Epsys {
 
 	public static void main(String[] args) {
 		
