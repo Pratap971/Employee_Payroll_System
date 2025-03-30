@@ -20,4 +20,9 @@ It allows adding, removing, and displaying employees with their calculated salar
 
 - Display employee details with calculated salaries.  
 
-- Remove an employee and update the list.  
+- Remove an employee and update the list.
+
+# Diagram -  
+
+![Epsys](https://github.com/user-attachments/assets/629be1d3-4b54-4997-94e0-012d5c78e310)
+
